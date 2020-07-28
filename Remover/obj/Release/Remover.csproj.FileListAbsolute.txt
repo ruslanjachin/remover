@@ -1,0 +1,9 @@
+C:\Users\RSYakhin\source\repos\Remover\Remover\bin\Release\Remover.exe.config
+C:\Users\RSYakhin\source\repos\Remover\Remover\bin\Release\Remover.exe
+C:\Users\RSYakhin\source\repos\Remover\Remover\bin\Release\Remover.pdb
+C:\Users\RSYakhin\source\repos\Remover\Remover\obj\Release\WindowsService1.ProjectInstaller.resources
+C:\Users\RSYakhin\source\repos\Remover\Remover\obj\Release\Remover.Service.resources
+C:\Users\RSYakhin\source\repos\Remover\Remover\obj\Release\Remover.csproj.GenerateResource.cache
+C:\Users\RSYakhin\source\repos\Remover\Remover\obj\Release\Remover.exe
+C:\Users\RSYakhin\source\repos\Remover\Remover\obj\Release\Remover.pdb
+C:\Users\RSYakhin\source\repos\Remover\Remover\obj\Release\Remover.csprojAssemblyReference.cache
